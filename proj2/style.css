@@ -1,0 +1,25 @@
+#header{
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+}
+#container{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#navigation{
+	background-color: yellow;
+	color: red;
+	width: 180px;
+	float: left;
+
+}
+#homepage{
+	width: 500px;
+	float: right;
+}
+#content{
+	padding: 10px;
+}
